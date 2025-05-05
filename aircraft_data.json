@@ -1,0 +1,171 @@
+{
+    "B737": {
+      "name": "Boeing 737-800",
+      "manufacturer": "Boeing",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "A320": {
+      "name": "Airbus A320",
+      "manufacturer": "Airbus",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "A380": {
+      "name": "Airbus A380",
+      "manufacturer": "Airbus",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B777": {
+      "name": "Boeing 777-200",
+      "manufacturer": "Boeing",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B787": {
+      "name": "Boeing 787 Dreamliner",
+      "manufacturer": "Boeing",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "A330": {
+      "name": "Airbus A330",
+      "manufacturer": "Airbus",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "A350": {
+      "name": "Airbus A350",
+      "manufacturer": "Airbus",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B767": {
+      "name": "Boeing 767",
+      "manufacturer": "Boeing",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B747": {
+      "name": "Boeing 747-400",
+      "manufacturer": "Boeing",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "CRJ200": {
+      "name": "Bombardier CRJ200",
+      "manufacturer": "Bombardier",
+      "type": "Regional",
+      "role": "Passenger"
+    },
+    "E170": {
+      "name": "Embraer E170",
+      "manufacturer": "Embraer",
+      "type": "Regional",
+      "role": "Passenger"
+    },
+    "E190": {
+      "name": "Embraer E190",
+      "manufacturer": "Embraer",
+      "type": "Regional",
+      "role": "Passenger"
+    },
+    "CRJ900": {
+      "name": "Bombardier CRJ900",
+      "manufacturer": "Bombardier",
+      "type": "Regional",
+      "role": "Passenger"
+    },
+    "B757": {
+      "name": "Boeing 757-200",
+      "manufacturer": "Boeing",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "A321": {
+      "name": "Airbus A321",
+      "manufacturer": "Airbus",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "MD80": {
+      "name": "McDonnell Douglas MD-80",
+      "manufacturer": "McDonnell Douglas",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "F50": {
+      "name": "Fokker 50",
+      "manufacturer": "Fokker",
+      "type": "Regional",
+      "role": "Passenger"
+    },
+    "ATR72": {
+      "name": "ATR 72",
+      "manufacturer": "ATR",
+      "type": "Regional",
+      "role": "Passenger"
+    },
+    "B787-9": {
+      "name": "Boeing 787-9 Dreamliner",
+      "manufacturer": "Boeing",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B737MAX": {
+      "name": "Boeing 737 MAX",
+      "manufacturer": "Boeing",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "A310": {
+      "name": "Airbus A310",
+      "manufacturer": "Airbus",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B727": {
+      "name": "Boeing 727",
+      "manufacturer": "Boeing",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "A220": {
+      "name": "Airbus A220",
+      "manufacturer": "Airbus",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "B737-900": {
+      "name": "Boeing 737-900",
+      "manufacturer": "Boeing",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "B757-300": {
+      "name": "Boeing 757-300",
+      "manufacturer": "Boeing",
+      "type": "Narrow-body",
+      "role": "Passenger"
+    },
+    "A330-800": {
+      "name": "Airbus A330-800",
+      "manufacturer": "Airbus",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "A350-1000": {
+      "name": "Airbus A350-1000",
+      "manufacturer": "Airbus",
+      "type": "Wide-body",
+      "role": "Passenger"
+    },
+    "B777X": {
+      "name": "Boeing 777X",
+      "manufacturer": "Boeing",
+      "type": "Wide-body",
+      "role": "Passenger"
+    }
+  }
+  
